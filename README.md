@@ -50,6 +50,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Toubsh]
 - Frontend Mentor - [@Toubsh](https://www.frontendmentor.io/profile/Toubsh)
 - Codepen.io - [Toubsh](https://codepen.io/Toubsh)
